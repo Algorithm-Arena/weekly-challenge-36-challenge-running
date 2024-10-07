@@ -27,7 +27,7 @@ If you feel like going above an beyond, automating the creating flow would be aw
 * There are no restrictions in terms of tech stack.
 
 ### How to submit a solution:
-* Deadline to submit is Sunday September 30th evening at Midnight PST (US West Coast).
+* Deadline to submit is Sunday October 13 evening at Midnight PST (US West Coast).
 * Open an issue on this repo titled "Submission - &lt;Name of your submission&gt;"
 * It must contain a short video showing the submission in action
 * It must contain an explanation on how to try it
